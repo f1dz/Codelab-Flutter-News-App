@@ -4,6 +4,6 @@ Codelab for Dicoding Flutter Fundamental
 
 ## Screen Shots
 
-![Home Screen](/assets/images/screenshot1.png){:class="img-responsive"} "Home Screen"
-![Detail Screen](/assets/images/screenshot2.png){:class="img-responsive"} "Detail Screen"
-![WebView Screen](/assets/images/screenshot3.png){:class="img-responsive"} "WebView Screen"
+Home Scree. | Detail Screen.| WebView
+:----------:|:-------------:|:--------:
+<img src="/assets/images/screenshot1.png" width=300 alt="Home Screen"/> | <img src="/assets/images/screenshot2.png" width=300 alt="Detail Screen"/> | <img src="/assets/images/screenshot3.png" width=300 alt="WebView Screen"/>
