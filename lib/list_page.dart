@@ -1,7 +1,7 @@
-import 'package:dicoding_news_app/detail_page.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+import 'detail_page.dart';
 import 'models/article.dart';
 
 class NewsListPage extends StatelessWidget {
